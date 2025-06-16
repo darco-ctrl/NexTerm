@@ -1,3 +1,4 @@
+[![GitHub release](https://img.shields.io/github/v/release/darco-ctrl/NexTerm?style=for-the-badge)](https://github.com/darco-ctrl/NexTerm/releases)
 # NexTerm 🖥️
 
 **NexTerm** is a customizable terminal built with WPF and C#, NexTerm uses PowerShell with custom NexTerm-exclusive commands — all wrapped in a modern, minimal interface.
