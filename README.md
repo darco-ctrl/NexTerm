@@ -33,5 +33,4 @@
 ##  Coming Soon
 
 -  **Tabbed terminal support**
--  **Addon/plugin system**
 -  **Theme and UI**
