@@ -6,10 +6,9 @@
 ---
 
 ## ⚙️ Project Status
-
- **NexTerm is currently in active development**
- It may have bugs, but it's improving with every update
- The long-term goal is to make it a **fully customizable**, developer-friendly terminal alternative
+**NexTerm is an archived project.**
+It was built as an experimental C# project to learn more about Windows APIs and terminal development.
+Development was stopped after it served its purpose as a learning project.
 
 ---
 
