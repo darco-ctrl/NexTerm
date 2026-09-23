@@ -11,8 +11,14 @@ It was built as an experimental C# project to learn more about Windows APIs and 
 Development was stopped after it served its purpose as a learning project.
 
 ---
+ 
+## 📷 Video
 
-##  Features
+https://github.com/user-attachments/assets/f40f8781-2921-4336-ae87-607f4a7d12d0
+
+
+
+## ✨ Features
 
 -  **Run native PowerShell commands**
 -  **NexTerm-exclusive commands:**
