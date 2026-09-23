@@ -30,7 +30,3 @@
 
 ![NexTerm UI](screenshots/NexTermWin.png)
 
-##  Coming Soon
-
--  **Tabbed terminal support**
--  **Theme and UI**
